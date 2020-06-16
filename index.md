@@ -2,7 +2,11 @@
 
 Save time when crossing into the United States, check the waiting times reported by CBP, check the traffic map in real time, receive notifications when the waiting time is less than you decide, use our widget and stay informed without opening the app , all this for free.
 
-Download [here](http://www.appstore.com)
+Download [here.](http://www.appstore.com)
+
+### Support or Contact
+
+Having trouble or suggestions for us? [contact support](mailto:luisdurancota@gmail.com) and we’ll happy to hear about you.
 
 ### Privacy Policy
 
@@ -41,6 +45,4 @@ If you have any questions or comments about this Policy or our privacy practices
 Changes to This Privacy Policy
 Please be aware that our privacy policy may change from time to time. A current, time-stamped version will always be available on this page. Where changes are deemed significant we will endeavours to provide a more prominent notice or may contact our customers directly.
 
-### Support or Contact
-
-Having trouble or suggestions for us? [contact support](mailto:luisdurancota@gmail.com) and we’ll happy to hear about you.
+Last update: June 16, 2020
