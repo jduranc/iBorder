@@ -1,13 +1,16 @@
-## Welcome to iBorder Site
+## Welcome to iBorder
 
-iBorder the app that will let you know about crossing delay times to US. With this app you will be able to set notifications, use widget or the app on your iWatch to keep informed.
+Save time when crossing into the United States, check the waiting times reported by CBP, check the traffic map in real time, receive notifications when the waiting time is less than you decide, use our widget and stay informed without opening the app , all this for free.
+
+Download [here](http://www.appstore.com)
 
 ### Privacy Policy
 
 iBorder app respect the privacy of our customers.
 The following policy briefly outlines the personally identifiable information that we collect from our customers and prospective customers, and the steps that we take to safeguard their privacy. 
 
-1. What Kind of Information We Collect
+1. What Kind of Information We Collect.
+
 1.1 Personal Information
 We do not collect Personal Information. "Personal Information" is information that identifies you or another person, which may be transmitted or received when you use an Application, the Services and/or the Site.
 
