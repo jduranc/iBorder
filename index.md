@@ -17,8 +17,10 @@ Since we do not collect Personal Information, we may not use your personal infor
 We may collect Non-Personal Information about users whenever they interact with our apps. Non-Personal Information may include the information about your devices, and technical information about users means of connection to our apps, such as the versions of phone model and other similar information.
 
 2. How We Use Collected Information
+
 2.1 Personal Information
 Since we do not collect Personal Information, we may not use your personal information in any way.
+
 2.2 Non- Personal Information
 We may use Non-Personal Information for any purpose as below:
 (a) We may use Non- Personal Information for promotion and marketing purposes.
