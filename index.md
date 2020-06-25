@@ -2,7 +2,7 @@
 
 Save time when crossing into the United States, check the waiting times reported by CBP, check the traffic map in real time, receive notifications when the waiting time is less than you decide, use our widget and stay informed without opening the app , all this for free.
 
-Download [here.](http://www.appstore.com)
+Download [here.](https://apps.apple.com/us/app/id1518675459)
 
 ### Support or Contact
 
