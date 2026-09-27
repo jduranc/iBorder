@@ -61,4 +61,4 @@ Get iBorder today on the App Store:
 ### 📜 Legal & Policies
 
 - See our [Privacy Policy](https://jduranc.github.io/iBorder/docs/privacy-policy) for details.
-- See our [Terms and Conditions]([https://jduranc.github.io/iborder/docs](https://jduranc.github.io/iBorder/docs/terms-and-conditions) for details.
+- See our [Terms and Conditions](https://jduranc.github.io/iborder/docs/terms-and-conditions) for details.
