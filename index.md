@@ -53,7 +53,7 @@ Get iBorder today on the App Store:
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://apps.apple.com/us/app/id1518675459](https://apps.apple.com/app/apple-store/id1518675459?pt=95940123&ct=web&mt=8))
 
-[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)]([https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME](https://play.google.com/store/apps/details?id=com.duran.android.iborder))
+[![Download on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)]([https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME](https://play.google.com/store/apps/details?id=com.duran.android.iborder))
 
 ---
 
@@ -61,4 +61,3 @@ Get iBorder today on the App Store:
 
 - See our [Privacy Policy](https://jduranc.github.io/iBorder/docs/privacy-policy) for details.
 - See our [Terms and Conditions](https://jduranc.github.io/iBorder/docs/terms-and-conditions) for details.
-- 
