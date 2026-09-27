@@ -51,10 +51,9 @@ Upgrade to **iBorder Pro** for the ultimate crossing experience:
 
 Get iBorder today on the App Store:
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/id1518675459)
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://apps.apple.com/us/app/id1518675459](https://apps.apple.com/app/apple-store/id1518675459?pt=95940123&ct=web&mt=8))
 
-* **iOS App Store:** [Download for iPhone & iPad](https://apps.apple.com/app/apple-store/id1518675459?pt=95940123&ct=web&mt=8)
-* **Google Play Store:** [Download for Android](https://play.google.com/store/apps/details?id=com.duran.android.iborder)
+* **Google Play Store:** [Download](https://play.google.com/store/apps/details?id=com.duran.android.iborder)
 
 ---
 
