@@ -92,6 +92,6 @@ If you have questions, feedback, or inquiries regarding this Privacy Policy or y
 
 * **Application:** iBorder
 * **Developer:** Luis Duran, 
-* [ Email](rays-mouse01@icloud.com)
+* [ Email](emailto:rays-mouse01@icloud.com)
 * **Location:** Mercer Island, WA, USA
 
