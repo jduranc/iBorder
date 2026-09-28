@@ -3,8 +3,7 @@
 **iBorder** makes international border crossing simple, fast, and predictable. 
 - Never get stuck in unexpected border lines again.
 - Border wait times, lane breakdowns, live traffic cameras, and historical wait time trends — all in one powerful app.
-
-Plan your crossing with confidence across all major **US–Mexico (🇲🇽)** and **US–Canada (🇨🇦)** ports of entry.
+- Plan your crossing with confidence across all major **US–Mexico (🇲🇽)** and **US–Canada (🇨🇦)** ports of entry.
 
 ---
 
