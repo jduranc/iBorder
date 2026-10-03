@@ -113,7 +113,7 @@ Because you downloaded iBorder from the Apple App Store, you acknowledge and agr
 If you have any questions, concerns, or inquiries regarding these Terms of Service, please contact:
 
 * **Application:** iBorder
-* **Developer:** Luis Duran
-* [Email]([rays-mouse01@icloud.com)
+* **Developer:** Jose Duran
+* [Email](mailto:rays-mouse01@icloud.com)
 * **Location:** Mercer Island, WA, USA
 
