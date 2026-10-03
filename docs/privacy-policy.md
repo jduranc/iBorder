@@ -91,7 +91,7 @@ We may periodically revise this Privacy Policy to reflect application updates, r
 If you have questions, feedback, or inquiries regarding this Privacy Policy or your data privacy in iBorder, please reach out to:
 
 * **Application:** iBorder
-* **Developer:** Luis Duran, 
+* **Developer:** Jose Duran, 
 * [Email](mailto:rays-mouse01@icloud.com)
 * **Location:** Mercer Island, WA, USA
 
