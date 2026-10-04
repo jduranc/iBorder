@@ -1,4 +1,4 @@
-# iBorder — Border Wait Times & Live Cameras
+# iBorder — Border Wait Times
 
 **iBorder** makes international border crossing simple, fast, and predictable. 
 - Never get stuck in unexpected border lines again.
@@ -18,6 +18,9 @@ Inspect the border lines with your own eyes before you drive. View live webcam f
 
 ### 📲 Live Activities & Dynamic Island (iOS)
 Keep an eye on current border wait times right from your **Lock Screen** and **Dynamic Island** without having to unlock your phone or reopen the app.
+
+### ⌚ Apple Watch Smart Stack (iOS)
+Check border wait times right on your wrist with Apple Watch Smart Stack support.
 
 ### 📊 Historical Trends & 24-Hour Charts
 Avoid peak congestion hours. Explore visual 24-hour crossing distributions and day-of-the-week historical averages to find the best time to cross.
